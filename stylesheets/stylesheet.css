@@ -62,7 +62,8 @@ body {width:100%; height:100%; background:#000 url(../img/Cellphone/NorsanGraphi
 				#hpMainArticleText {margin:29px 32px 61px; font-size:17px; color:#141414; overflow:auto; text-align:justify;}
 				div.ArticleSpacer{height:20px;}
 				#hpMainArticle h2 {margin-top:20px;}
-				#hpMainArticle ul {margin:30px;}
+				#hpMainArticle h3 {margin-top: 20px;}
+				#hpMainArticle ul {margin:10px 30px 10px 30px;}
 				#hpMainArticle ol {margin:30px;}
 				#hpMainArticle p {margin-top:10px;}
 				#hpMainArticle table {margin:20px;}
